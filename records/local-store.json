@@ -1,0 +1,24 @@
+{
+  "records": {
+    "e_6abe3270df55254d0a8ef744": {
+      "createdTime": 1790849648703,
+      "deleted": false,
+      "entityType": "e_solution",
+      "id": "e_6abe3270df55254d0a8ef744",
+      "lastModifiedBy": 66770,
+      "lastPlatformUpdateBy": 66770,
+      "lastPlatformUpdateOn": 1790849648703,
+      "modifiedTime": 1790849648703,
+      "ownerUserId": 66770,
+      "properties": {
+        "name": "GTRI",
+        "description": "",
+        "memory": "# Memory\n## Decisions\n## Corrections\n## Errors\n## Notes\n",
+        "linkedEntities": []
+      },
+      "standard": false,
+      "version": 0
+    }
+  },
+  "counters": {}
+}
